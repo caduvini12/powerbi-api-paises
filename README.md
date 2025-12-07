@@ -11,3 +11,8 @@ armazenamento em PostgreSQL e visualização final em Power BI.
 - Power BI
 
 
+##  Contato
+
+* **Autor:** Carlos Eduardo Guedes
+* **LinkedIn:** [[Perfil do LinkedIn](https://www.linkedin.com/in/carlos-eduardo-guedes-martins-935053341/)
+* **Email:** carlosgmartins05@gmail.com
