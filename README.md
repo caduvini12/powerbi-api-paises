@@ -10,6 +10,9 @@ armazenamento em PostgreSQL e visualização final em Power BI.
 - PostgreSQL
 - Power BI
 
+## Banco de dados usado:
+<img width="202" height="283" alt="image" src="https://github.com/user-attachments/assets/318ece5f-94e1-415f-9eda-b813fdd0c395" />
+
 
 ##  Contato
 
