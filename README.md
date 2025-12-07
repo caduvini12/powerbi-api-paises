@@ -10,6 +10,10 @@ armazenamento em PostgreSQL e visualização final em Power BI.
 - PostgreSQL
 - Power BI
 
+## Codigo python
+<img width="743" height="626" alt="image" src="https://github.com/user-attachments/assets/ba3e6967-913a-49cd-a523-9753890af3c3" />
+
+
 ## Banco de dados usado:
 <img width="202" height="283" alt="image" src="https://github.com/user-attachments/assets/318ece5f-94e1-415f-9eda-b813fdd0c395" />
 
