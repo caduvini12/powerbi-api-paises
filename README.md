@@ -13,6 +13,10 @@ armazenamento em PostgreSQL e visualização final em Power BI.
 ## Banco de dados usado:
 <img width="202" height="283" alt="image" src="https://github.com/user-attachments/assets/318ece5f-94e1-415f-9eda-b813fdd0c395" />
 
+## BI
+![Video Project](https://github.com/user-attachments/assets/31b3a9c8-cbd8-42c0-8087-b69caf02ec5e)
+
+
 
 ##  Contato
 
